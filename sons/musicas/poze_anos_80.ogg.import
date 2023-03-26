@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/poze_anos_80.ogg-edff4a2d0a5e995e19dbb45ec3828084.oggstr"
+
+[deps]
+
+source_file="res://sons/musicas/poze_anos_80.ogg"
+dest_files=[ "res://.import/poze_anos_80.ogg-edff4a2d0a5e995e19dbb45ec3828084.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

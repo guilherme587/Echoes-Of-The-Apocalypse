@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://sons/musicas/musica.ogg" type="AudioStream" id=1]
+[ext_resource path="res://sons/musicas/players/scripts/musica_controlador.gd" type="Script" id=2]
+[ext_resource path="res://sons/musicas/poze_anos_80.ogg" type="AudioStream" id=3]
+
+[node name="musica_controlador" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 1 )
+volume_db = -20.0
+
+[node name="AudioStreamPlayer2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )

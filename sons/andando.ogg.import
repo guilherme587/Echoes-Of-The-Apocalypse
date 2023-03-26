@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/andando.ogg-148ae668dff99f5ed9c5d6a281bc34ce.oggstr"
+
+[deps]
+
+source_file="res://sons/andando.ogg"
+dest_files=[ "res://.import/andando.ogg-148ae668dff99f5ed9c5d6a281bc34ce.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
